@@ -6,3 +6,5 @@ const add = (num1: number, num2: number) => num1 + num2;
 button.addEventListener("click", () => {
   alert(add(+input1.value, +input2.value));
 });
+
+alert('adsa')
