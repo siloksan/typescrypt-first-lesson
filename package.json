@@ -1,5 +1,5 @@
 {
-  "name": "build-sandbox",
+  "name": "lessons-typescrypt",
   "version": "1.0.0",
   "description": "Sandbox to play React build tool",
   "main": "index.js",
